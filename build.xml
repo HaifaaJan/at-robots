@@ -207,7 +207,5 @@
     </jar>
   </target> 
 
-<javac srcdir="src" destdir="build/classes" source="8" target="8" />
-
   
 </project>
